@@ -56,8 +56,3 @@ You'll need to choose between two functions based on how you want your applicati
 ### Summary
 
 In this lesson, we went over the difference between `RANK()` and `DENSE_RANK()`. Depending on the usage of an application, we'll need to carefully choose which function to use. 
-
-
-```python
-
-```
